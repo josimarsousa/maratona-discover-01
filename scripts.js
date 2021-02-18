@@ -225,10 +225,10 @@ let buttonCredit = document.querySelector("#credit")
 
 debitTransaction.addEventListener("click", function (event) {
     if(buttonCredit == true){
-       // alert("clicou em credito")
+       
     }else{
         buttonDebit == false
-       // alert("clicou em debito")
+       
     }
     
 })
@@ -242,15 +242,6 @@ buttonCredit.addEventListener("click", function (event){
     buttonCredit = true
     
 })
-
-/*function mostraValor() {
-    //event.preventDefault()
-    let numDebit = document.querySelector("#amount").value*-1
-    //numDebit = numDebit * -1
-    //amount = parseFloat(numDebit)
-    alert(numDebit)
-}*/
-
 
 const Form = {
     //pega os valores dos inputs do form
