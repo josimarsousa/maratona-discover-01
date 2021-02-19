@@ -173,11 +173,11 @@ const Utils = {
     formatAmount(value) {
         
         value = Number(value.replace(/\,\./g, "")) * 100
+
         if(buttonDebit == true){
             value = value* -1
         }
-     
-        
+             
         return value
 
     },
