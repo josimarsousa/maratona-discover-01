@@ -345,7 +345,7 @@ td.expense {
    z-index: 1;
 }
 
-.modalOp {
+#modalOp {
    background: #F0F2f5;
    padding: rem;
    border-radius: 25px;

@@ -2,7 +2,7 @@ function titleDebit() {
 
     Modal.open()
 
-    document.querySelector("#titulotransacao").innerText = "Nova transação de débito"
+    document.querySelector('.titulotransacao').innerText = "Nova transação de débito"
 
     ModalOption.close()
 
@@ -11,7 +11,7 @@ function titleDebit() {
 function titleCredit() {
     Modal.open()
 
-    document.querySelector("#titulotransacao").innerText = "Nova transação de crédito"
+    document.querySelector('.titulotransacao').innerText = "Nova transação de crédito"
 
     ModalOption.close()
 }
@@ -20,7 +20,7 @@ const Modal = {
     open() {
         
         document
-            .querySelector(".modal-overlay")
+            .querySelector('.modal-overlay')
             .classList
             .add('active')
         
@@ -30,7 +30,7 @@ const Modal = {
     close() {
               
         document
-            .querySelector(".modal-overlay")
+            .querySelector('.modal-overlay')
             .classList
             .remove('active')
     }
@@ -171,15 +171,12 @@ const DOM = {
 
 const Utils = {
     formatAmount(value) {
+        
+        value = Number(value.replace(/\,\./g, "")) * 100
         if(buttonDebit == true){
             value = value* -1
-        }else{
-            value = value
         }
-        
-        value = Number(value)*100
-        //alert(value)
-        //value = Number(value.replace(/\,\./g, "")) * 100
+     
         
         return value
 
