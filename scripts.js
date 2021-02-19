@@ -178,7 +178,7 @@ const Utils = {
         }
             
         value = Number(value) * 100
-        alert(value)
+        
         return value
         
 
