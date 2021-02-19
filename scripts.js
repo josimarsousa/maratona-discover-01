@@ -172,14 +172,18 @@ const DOM = {
 const Utils = {
     formatAmount(value) {
         
-        value = Number(value.replace(/\,\./g, "")) * 100
-
         if(buttonDebit == true){
             value = value* -1
+            buttonDebit = false
         }
-             
+            
+        value = Number(value) * 100
+        alert(value)
         return value
+        
 
+        
+     
     },
 
     formatDate(date) {

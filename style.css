@@ -66,7 +66,7 @@ button {
    border: none;
 
    color: white;
-   background: var(--green);
+   
 
     border-radius: 0.25rem;
 
@@ -78,6 +78,10 @@ button {
   
 
 
+}
+
+.save{
+   background: var(--green);
 }
 
 .save:hover {
@@ -134,7 +138,7 @@ button {
   
    color: var(--dark-blue);
    font-size: 15px;
-   
+      
    margin-top: 4%;
    margin-bottom: 2.5%;
    margin-right: 0.2%;
@@ -142,6 +146,7 @@ button {
 
    background: rgb(223, 128, 128);
 
+  
     
 }
 
@@ -156,6 +161,7 @@ button {
    margin-bottom: 1%;
    margin-top: 1%;
    margin-right: .2%;
+   background: var(--green);
   
 }
 
@@ -167,13 +173,14 @@ button {
 .btncancel{
    margin-top: 0.9rem;
    margin-right: 0.2%;
-   background:#ecebadf3;
-   color: var(--dark-blue);
-   font-size: 15px;
+   color: var(--red);
+   border: 2px var(--red) solid;
+   border-radius: 0.25rem;
+   
 }
 
 .btncancel:hover{
-   background: white;
+   background: white
 }
 
 
