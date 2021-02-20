@@ -1,2 +1,2 @@
-<h1 align="center>devFinance</h1>
+<h1 align="center">devFinance</h1>
 <p align="center">projeto desenvolvido na maratona discover da Rocketseat. Abaixo imagem do projeto original e link para visualizacao do demo com alterações feitas</p>
