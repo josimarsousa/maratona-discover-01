@@ -361,10 +361,9 @@ td.expense {
    z-index: 1;
 }
 
-#titulotransacao{
+.titulotransacao{
+   margin-left: 15px;
    
-   margin: 4%;
-
 }
 .modal-option {
    width: 100%;
@@ -442,6 +441,7 @@ input {
 
 .input-group {
    margin-top: 1rem;
+   margin-right: 20px;
    
 }
 
