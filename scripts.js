@@ -175,6 +175,7 @@ const Utils = {
         if(buttonDebit == true){
             value = value* -1
             buttonDebit = false
+            buttonCredit = false
         }
             
         value = Number(value) * 100
