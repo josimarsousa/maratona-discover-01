@@ -4,6 +4,25 @@
 
 <a href="https://devfinance-eosin.vercel.app/?#"> => devFinance</a>
 
+<<<<<<< HEAD
 ## Imagem projeto original
 <img src="./images/devfinanceorig.png"/>
 <p>Readme em fase de conclusao</p>
+=======
+## Tecnologias usadas no projeto
+- HTML
+- CSS
+- JAVASCRIPT
+
+## Features 
+
+- Form opção transacao.
+- Não há necessidade de digitar o sinal de menos(-) antes do número na opção de débito.
+- Titulo do form muda de acordo com a opção da transacao. (ex: se debito será:NOVA TRANSAÇÃO DE DÉBTIO, se crédito: NOVA TRANSAÇÃO DE CRÉDITO)
+
+## Autor
+
+Josimar Jose - Estudante e amante de tecnologia, em busca do próximo nível.
+
+
+>>>>>>> 2b6088a9a14da9cc9d2448bc75fb7834e74c4d81
