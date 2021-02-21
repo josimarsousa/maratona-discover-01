@@ -1,15 +1,17 @@
 # devFinance
+
 <p align="center">projeto desenvolvido na maratona discover da Rocketseat. Abaixo imagem do projeto original e link para visualizacao do demo com alterações feitas</p>
-<h2> Link demo do projeto </h2>
+
+# Link demo do projeto
 
 <a href="https://devfinance-eosin.vercel.app/?#"> => devFinance</a>
 
-<<<<<<< HEAD
-## Imagem projeto original
+# Imagem do projeto original
+
 <img src="./images/devfinanceorig.png"/>
-<p>Readme em fase de conclusao</p>
-=======
+
 ## Tecnologias usadas no projeto
+
 - HTML
 - CSS
 - JAVASCRIPT
@@ -25,4 +27,3 @@
 Josimar Jose - Estudante e amante de tecnologia, em busca do próximo nível.
 
 
->>>>>>> 2b6088a9a14da9cc9d2448bc75fb7834e74c4d81
