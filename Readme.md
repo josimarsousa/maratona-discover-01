@@ -4,6 +4,4 @@
 
 <a href="https://devfinance-eosin.vercel.app/?#"> => devFinance</a>
 
-## Imagem projeto original
-<img src=""/>
 <p>Readme em fase de conclusao</p>
