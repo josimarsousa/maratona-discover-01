@@ -10,9 +10,15 @@
 
 <img src="./images/indexJodevfinance.png"/>
 <img src="./images/optionTransactionJodevfinance.png"/>
+
+<p>O Título do form mudará de acordo com a opção de transação escolhida.</p>
+
 <img src="./images/formTransacaoCreditoJodevfinance.png"/>
 <img src="./images/SaldoCreditoLancadoJodevfinance.png"/>
 <img src="./images/transacaoDebitosemSinalMenosJodevfinance.png"/>
+
+<p>O lançamento do debito será lançando sem a necessidade do sinal de menos(-).</p>
+
 <img src="./images/transacaoCompletaTabelaJodevfinance.png"/>
 
 # Link demo do projeto apos modificações
