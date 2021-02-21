@@ -12,7 +12,8 @@
 ## Features 
 
 - Form opção transacao.
-- Não há necessidade de digitar o sinal de de menos(-) antes do número na opção de débito.
+- Não há necessidade de digitar o sinal de menos(-) antes do número na opção de débito.
+- Titulo do form muda de acordo com a opção da transacao. (ex: se debito será:NOVA TRANSAÇÃO DE DÉBTIO, se crédito: NOVA TRANSAÇÃO DE CRÉDITO)
 
 
 
