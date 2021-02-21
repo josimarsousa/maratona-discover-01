@@ -4,4 +4,10 @@
 
 <a href="https://devfinance-eosin.vercel.app/?#"> => devFinance</a>
 
+<h2> Tecnologias usadas no projeto </h2>
+- [HTML]
+- [CSS]
+- [JAVASCRIPT]
+
+
 <p>Readme em fase de conclusao</p>
