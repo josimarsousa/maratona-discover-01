@@ -2,14 +2,13 @@
 
 <p align="center">projeto desenvolvido na maratona discover da Rocketseat. Abaixo imagem do projeto original e link para visualizacao do demo com alterações feitas</p>
 
-# Link demo do projeto
-
-<a href="https://devfinance-eosin.vercel.app/?#"> => devFinance</a>
-
 # Imagem do projeto original
 
 <img src="./images/devfinanceorig.png"/>
 
+# Link demo do projeto apos modificações
+
+<a href="https://devfinance-eosin.vercel.app/?#"> => devFinance</a>
 ## Tecnologias usadas no projeto
 
 - HTML
