@@ -6,6 +6,15 @@
 
 <img src="./images/devfinanceorig.png"/>
 
+# Imagens do projeto apos modificações
+
+<img src="./images/indexJodevfinance.png"/>
+<img src="./images/optionTransactionJodevfinance.png"/>
+<img src="./images/formTransacaoCreditoJodevfinance.png"/>
+<img src="./images/SaldoCreditoLancadoJodevfinance.png"/>
+<img src="./images/transacaoDebitosemSinalMenosJodevfinance.png"/>
+<img src="./images/transacaoCompletaTabelaJodevfinance.png"/>
+
 # Link demo do projeto apos modificações
 
 <a href="https://devfinance-eosin.vercel.app/?#"> => devFinance</a>
