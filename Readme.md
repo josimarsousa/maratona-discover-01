@@ -4,10 +4,17 @@
 
 <a href="https://devfinance-eosin.vercel.app/?#"> => devFinance</a>
 
-<h2> Tecnologias usadas no projeto </h2>
-- [HTML]
-- [CSS]
-- [JAVASCRIPT]
+## Tecnologias usadas no projeto
+- HTML
+- CSS
+- JAVASCRIPT
+
+## Features 
+
+- Form opção transacao.
+- Não há necessidade de digitar o sinal de de menos(-) antes do número na opção de débito.
+
+
 
 
 <p>Readme em fase de conclusao</p>
